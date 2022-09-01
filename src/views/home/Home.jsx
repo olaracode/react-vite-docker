@@ -18,7 +18,7 @@ function Home() {
           <Text>Chakra-UI</Text>
           <Text>Context-API</Text>
         </Flex>
-        <Flex flexDir="column" justify="center" align="center" h="90vh">
+        <Flex flexDir="column" justify="center" align="center" h="85vh">
           <Flex flexDir={"column"} gap={10} align="center" justify={"center"}>
             <Box
               as={motion.div}
@@ -38,6 +38,11 @@ function Home() {
             <Image src={ChakraLogo} w="200px" />
           </Flex>
         </Flex>
+	    <Box>
+		  <Text textAlign="center"> 
+		    Made with love by Octavio Lara
+	      </Text>
+	    </Box>
       </Container>
     </>
   );
