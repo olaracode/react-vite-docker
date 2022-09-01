@@ -9,11 +9,9 @@ import { motion } from "framer-motion";
 import ReactLogo from "@/assets/imgs/react-logo.png";
 import ChakraLogo from "@/assets/imgs/chakra.png";
 import Container from "@/components/atoms/Container";
-import { Navbar } from "@/components/organisms";
 function Home() {
   return (
     <>
-      <Navbar />
       <Container>
         <Flex justify="space-between">
           <Text>React.js</Text>
