@@ -1,7 +1,13 @@
 {
-  "name": "golfincorp-frontend",
+  "name": "react-context-chakra-boilerplate",
+  "description": "Basic React boilerplate starting from vite create app, using Context as a state manager and Chakra-UI as UI engine",
+  "author": {
+	"name": "Octavio Lara",
+	"url": "https://github.com/olaracode",
+	"email": "olaraav@gmail.com"
+   },
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
