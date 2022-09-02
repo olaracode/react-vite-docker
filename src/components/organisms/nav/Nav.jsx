@@ -9,7 +9,7 @@ const Nav = () => {
     <Flex h="50px" bgColor="brand.card" boxShadow={"md"} align="center">
       <Container>
         <Flex justify="space-between" align="center">
-          <Text color="brand.dark">ReactKra Template</Text>
+          <Text>ReactKra Template</Text>
           <IconButton variant={"ghost"} onClick={() => actions.handleTheme()}>
             {store.theme ? (
               <SunIcon color="brand.light" />
