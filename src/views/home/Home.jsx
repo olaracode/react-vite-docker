@@ -44,7 +44,7 @@ function Home() {
 					</Flex>
 				</Flex>
 				<Box>
-					<Text textAlign="center">Made with 🫀 in Venezuela 🇻🇪</Text>
+					<Text textAlign="center">Made with 🖤 in Venezuela 🇻🇪</Text>
 				</Box>
 			</Container>
 		</>
