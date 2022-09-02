@@ -2,10 +2,10 @@
   "name": "react-context-chakra-boilerplate",
   "description": "Basic React boilerplate starting from vite create app, using Context as a state manager and Chakra-UI as UI engine",
   "author": {
-	"name": "Octavio Lara",
-	"url": "https://github.com/olaracode",
-	"email": "olaraav@gmail.com"
-   },
+    "name": "Octavio Lara",
+    "url": "https://github.com/olaracode",
+    "email": "olaraav@gmail.com"
+  },
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -31,13 +31,14 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
-    "eslint": "^8.7.0",
+    "eslint": "^8.23.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.1",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "prettier": "^2.5.1",
+    "prettier": "^2.7.1",
     "vite": "^3.0.0"
   }
 }
