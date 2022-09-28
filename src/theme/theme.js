@@ -37,11 +37,11 @@ export const lightTheme = extendTheme({
   },
   colors: {
     brand: {
-      primary: "#52B788",
-      secondary: "#B7E4C7",
-      card: "#D8F3DC",
-      dark: "#0B1511",
-      light: "#E5EFE6",
+      primary: "#0096C7",
+      secondary: "#48CAE4",
+      card: "#023E8A",
+      dark: "#010228",
+      light: "#FFFFFF",
       white: "#fafafa",
       100: "#DDDDDD",
     },
@@ -67,11 +67,11 @@ export const darkTheme = extendTheme({
   },
   colors: {
     brand: {
-      primary: "#52B788",
-      secondary: "#B7E4C7",
-      card: "#1B4332",
-      dark: "#0B1511",
-      light: "#E5EFE6",
+      primary: "#0077B6",
+      secondary: "#48CAE4",
+      card: "#023E8A",
+      dark: "#010228",
+      light: "#FFFFFF",
       white: "#fafafa",
       100: "#DDDDDD",
     },
